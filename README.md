@@ -1,14 +1,8 @@
-# Trixly Governance Canon — Updates
+This repository is archived.
 
-This repository provides public update status information for
-Trixly Governance Canon, a proprietary governance and authority
-framework authored by Adam Walsh (TrixlySoftware).
+The project has evolved into the Trixly Workflow Kernel (TWK),
+an execution-first collaboration kernel that supersedes the
+original governance-based design.
 
-Trixly Governance Canon is a written framework for structuring
-authority, rules, and decision boundaries when working with ChatGPT
-on long-running or complex projects.
-
-No product files are hosted here.
-
-For current version status, licensing, or purchase inquiries,
-see: UPDATE_STATUS.txt
+Current home:
+https://github.com/TrixlySoftware/Trixly_Workflow_Kernel
